@@ -1,2 +1,2 @@
 #!/bin/bas
-tr -d "cC"
+echo "kingsley" | tr -d 'cC'
