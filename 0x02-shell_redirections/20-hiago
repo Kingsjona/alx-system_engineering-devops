@@ -1,2 +1,2 @@
-#!/bin/bas
-tr -d 'cC'
+#!/bin/bash
+echo "kings" | tr -d "cC"
